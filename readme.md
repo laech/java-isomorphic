@@ -4,7 +4,7 @@ Abstraction for [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism).
 
 ## Usage
 
-[Javadoc](https://lae.gitlab.io/java-isomorphic/)
+[Javadoc](https://lae.gitlab.io/java-isomorphic/apidocs)
 
 Requires Java 8+.
 
