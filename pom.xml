@@ -4,7 +4,7 @@
 
     <groupId>com.gitlab.lae.isomorphic</groupId>
     <artifactId>isomorphic</artifactId>
-    <version>0.1-beta1</version>
+    <version>0.1-beta2-SNAPSHOT</version>
 
     <name>Isomorphic</name>
     <description>Abstraction for isomorphism.</description>
@@ -15,7 +15,7 @@
         <developerConnection>
             scm:git:git@gitlab.com:lae/java-isomorphic.git
         </developerConnection>
-        <tag>0.1-beta1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <licenses>
