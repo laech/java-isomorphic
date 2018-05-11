@@ -2,9 +2,9 @@
 
 Abstraction for [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism).
 
-[Javadoc](https://lae.gitlab.io/java-isomorphic/)
-
 ## Usage
+
+[Javadoc](https://lae.gitlab.io/java-isomorphic/)
 
 Requires Java 8.
 
