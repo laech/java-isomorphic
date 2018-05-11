@@ -129,6 +129,12 @@
                             <goal>jar</goal>
                         </goals>
                     </execution>
+                    <execution>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>aggregate</goal>
+                        </goals>
+                    </execution>
                 </executions>
             </plugin>
         </plugins>
